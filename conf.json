@@ -1,0 +1,17 @@
+{
+    "ClientID": "",
+    "Topic": "",
+    "ID": [
+        ""
+    ],
+    "Pins": 3,
+    "Waitdelay": "60",
+    "FunctionPin": 5,
+    "FunctionOntime": 35,
+    "FunctionDelay": 60,
+    "FunctionRotation": 1,
+    "Mqttuser": "",
+    "Mqttpw": "",
+    "Broker": ""
+
+}
